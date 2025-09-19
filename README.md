@@ -1,6 +1,6 @@
 👋 Hi, I’m Shelcy
 
-# 🚀 Software Engineer | AI Workflow Builder | Full-Stack Developer  
+# 🚀 Software Engineer | AI Workflow Builder | Full-Stack Developer
 
 I design and deliver **scalable applications** and **intelligent workflows** with a focus on performance, automation, and reliability.  
 
