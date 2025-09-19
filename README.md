@@ -15,10 +15,11 @@ I design and build scalable applications and intelligent workflows using:
 🌱 Currently exploring how LLMs + automation can transform enterprise systems.
 📌 Passionate about clean code, architecture design, and problem-solving.
 
-🌐 Find Me Online
+## 🌐 Find Me Online  
 
-🔗 Portfolio
- | 💼 www.linkedin.com/in/g-shelcy2
- | 📧 shelcygovada44@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shelcygovada1704) 
+- 📧 [Email Me](mailto:shelcygovada44@gmail.com)  
+- 🌐 [Portfolio](https://yourportfolio.com)  
+
 
 ✨ “I love turning complex systems into seamless solutions.”
