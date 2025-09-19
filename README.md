@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I’m Shelcy
 
-<!--
-**ShelcyG/ShelcyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | AI Workflow Builder | Full-Stack Developer
 
-Here are some ideas to get you started:
+I design and build scalable applications and intelligent workflows using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Java | Spring Boot | React.js | Python
+
+⚡ Microservices | Event-Driven Systems (Kafka) | REST & GraphQL APIs
+
+🤖 AI/ML: AWS Bedrock | Ollama | Strands Agent | Prompt Engineering
+
+☁️ Cloud & DevOps: AWS | Jenkins | GitHub | CI/CD
+
+🌱 Currently exploring how LLMs + automation can transform enterprise systems.
+📌 Passionate about clean code, architecture design, and problem-solving.
+
+🌐 Find Me Online
+
+🔗 Portfolio
+ | 💼 www.linkedin.com/in/g-shelcy2
+ | 📧 shelcygovada44@gmail.com
+
+✨ “I love turning complex systems into seamless solutions.”
