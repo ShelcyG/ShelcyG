@@ -17,8 +17,6 @@ I design and deliver **scalable applications** and **intelligent workflows** wit
  **🌐 Find Me Online  **  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shelcygovada1704) 
-- 📧 [Email Me](mailto:shelcygovada44@gmail.com)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
-
+- 📧 [Email Me](mailto:shelcygovada44@gmail.com)   
 
 ✨ “I love turning complex systems into seamless solutions.”
